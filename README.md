@@ -7,7 +7,7 @@ Site tests pour ETPA
       <Title>Project: Travel Webpage</Title>
     </head>
   <body>
-      <h1>Travel to Costa Rica</h1> 
+      <h1>Logo de l'Ecole de Tir du Pays d'Aubagne</h1> 
       <img src="http://www.etpaubagne.org/images/etpa_40.jpg" alt="Scary crocodiles" width="200"/>  
   </body>
 </html>
