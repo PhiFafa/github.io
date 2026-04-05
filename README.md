@@ -7,6 +7,7 @@ Site tests pour ETPA
       <Title>Project: Travel Webpage</Title>
     </head>
   <body>
-    <img src="http://www.etpaubagne.org/images/etpa_40.jpg" alt="Scary crocodiles" width="200"/>  
+      <h1>Travel to Costa Rica</h1> 
+      <img src="http://www.etpaubagne.org/images/etpa_40.jpg" alt="Scary crocodiles" width="200"/>  
   </body>
 </html>
